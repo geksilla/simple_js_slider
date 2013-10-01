@@ -1,1 +1,11 @@
-Edited file.
+## Simple Content Slider
+---
+
+## Usage
+---
+
+##Options
+---
+
+##Avaliable Mehtods
+---
